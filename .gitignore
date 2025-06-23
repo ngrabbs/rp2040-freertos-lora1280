@@ -8,6 +8,7 @@
 
 # Ignore SDK or external libraries
 /lib/
+!lib/FreeRTOS-Kernel
 *.a
 
 # Ignore CMake generated files
